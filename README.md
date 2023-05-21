@@ -2,7 +2,9 @@
 
 A Datapack That Adds Some Recipes To Recycle
 
-# Alpha  0.0.1 Content
+# Content
+
+## Alpha 0.0.1
 
 Recycleble Oak Boat
 
@@ -14,6 +16,7 @@ Recycleble Iron Chestplate
 
 Recycleble Iron Helmet
 
-**Important:**
+# Important:
+
 The Mod Won't Work In Server, If You Want To use The Recycling You'll Need To use The Data Pack.
 
