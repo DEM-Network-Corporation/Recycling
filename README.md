@@ -13,3 +13,7 @@ Recycleble Iron Leggings
 Recycleble Iron Chestplate
 
 Recycleble Iron Helmet
+
+**Important:**
+The Mod Won't Work In Server, If You Want To use The Recycling You'll Need To use The Data Pack.
+
