@@ -22,6 +22,7 @@ Remeber To Read Changelogs To Be Updated Of Versions Content!
 
 # Recycling Showcase:
 
-https://github.com/DEMnetwork/Recycling/assets/105674889/c1641752-5768-4fb0-9a37-74c44171ac17
+https://github.com/DEMnetwork/Recycling/assets/105674889/4c17dea4-168f-41b6-8581-66d69783c23f
+
 
 
