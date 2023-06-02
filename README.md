@@ -20,6 +20,8 @@ Recycleble Iron Helmet
 
 Remeber To Read Changelogs To Be Updated Of Versions Content!
 
+**By Downloading The Mod In The Versions 0.0.5-alpha Your World Can Be Corrupt!**
+
 # Recycling Showcase:
 
 https://github.com/DEMnetwork/Recycling/assets/105674889/4c17dea4-168f-41b6-8581-66d69783c23f
