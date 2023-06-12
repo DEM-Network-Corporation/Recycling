@@ -1,12 +1,11 @@
 {
-  //URL to display in ModList GUI when an update is avalible
   "homepage": "https://modrinth.com/mod/recycling_mod",
   "promos": {
     "1.19.4-latest"     : "0.0.6-alpha",
     "1.19.4-recomended" : "0.0.6-alpha"
   },
   "1.19.4" : {
-    // The changelog will be a ordered list of all entries in this this whos key is >= CURRENT_VERSION && <= TARGET version
+    
     "0.0.6-alpha" : "Changelog seince last build",
     "0.0.6-alpha" : "Changelog seince last build"
   }
