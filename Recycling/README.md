@@ -23,3 +23,5 @@ In The Table Below SHows If The Version Has Datapack Support And/Or Mod Support
 |      0.0.5-alpha    |                 ✅                |            ✅          |
 |      0.0.6-alpha    |                 ❌                |            ✅          |
 |      0.0.7-alpha    |                 ❌                |            ✅          |
+
+***You Can Still Report Security Vulnerabilities Of Datapack And/Or Mod Version That Are Below v0.0.5-alpha***
