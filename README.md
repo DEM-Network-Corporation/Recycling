@@ -2,6 +2,14 @@
 
 A Datapack That Adds Some Recipes To Recycle
 
+## Where Do I Download The Mod
+
+You Can DOwnload The mod At:
+
+**[curseforge.com](https://www.curseforge.com/minecraft/mc-mods/recycling-mod)**
+
+**[modrinth.com](https://modrinth.com/mod/recycling_mod)**
+
 # Content
 
 ## Alpha 0.0.1
