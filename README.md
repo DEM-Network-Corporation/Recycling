@@ -1,5 +1,3 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/DEM-Network-Corporation/Recycling/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=Master)](https://github.com/DEM-Network-Corporation/Recycling/actions/workflows/jekyll-gh-pages.yml)
-
 # Recycling
 
 A Datapack That Adds Some Recipes To Recycle
