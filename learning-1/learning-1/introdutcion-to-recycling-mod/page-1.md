@@ -1,6 +1,6 @@
 # Page 1
 
-## Welcome to the Recycling wiki!
+Welcome to the Recycling wiki!
 
 ### Description:
 
