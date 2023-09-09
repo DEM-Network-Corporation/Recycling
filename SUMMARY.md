@@ -6,8 +6,10 @@
 * [CONTRIBUTING](getting-started/CONTRIBUTING.md)
 * [Security Policy](getting-started/SECURITY.md)
 
-## Interactive Content
+## Learning 1
 
-* [license](interactive-content/license.md)
-* [index](interactive-content/index.md)
-* [README](interactive-content/readme.md)
+* [Introdutcion To Recycling Mod](learning-1/introdutcion-to-recycling-mod/README.md)
+  * [Page 1](learning-1/introdutcion-to-recycling-mod/page-1.md)
+  * [Page 2](learning-1/introdutcion-to-recycling-mod/page-2.md)
+* [In The Recycling Mod Wave](learning-1/in-the-recycling-mod-wave/README.md)
+  * [Page 3](learning-1/in-the-recycling-mod-wave/page-3.md)
