@@ -1,3 +1,7 @@
+---
+description: A HTML Version Of REAMDE.md
+---
+
 # README
 
 ### Recycling <a href="#recycling" id="recycling"></a>
@@ -6,7 +10,7 @@ A Datapack That Adds Some Recipes To Recycle
 
 ### Links <a href="#links" id="links"></a>
 
-[Interactive-content](broken-reference)
+[Interactive-content](https://dem-network-corporation.github.io/Recycling/Interactive-Content/)
 
 ### Where Do I Download The Mod <a href="#where-do-i-download-the-mod" id="where-do-i-download-the-mod"></a>
 

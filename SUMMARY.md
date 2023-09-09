@@ -6,13 +6,8 @@
 * [CONTRIBUTING](getting-started/CONTRIBUTING.md)
 * [Security Policy](getting-started/SECURITY.md)
 
-***
-
-* [Import](import.md)
-
 ## Interactive Content
 
-* [Interactive Content](interactive-content/interactive-content/README.md)
-  * [license](interactive-content/interactive-content/license.md)
-  * [README](interactive-content/interactive-content/readme.md)
-  * [Information](interactive-content/interactive-content/information.md)
+* [license](interactive-content/license.md)
+* [index](interactive-content/index.md)
+* [README](interactive-content/readme.md)
