@@ -5,6 +5,7 @@ A Datapack That Adds Some Recipes To Recycle
 ## Links
 
 [Interactive-content](https://dem-network-corporation.github.io/Recycling/Interactive-Content/)
+
 [Wiki](https://dem-network-corporation.gitbook.io/recycling-wiki/)(Available At Gitbook)
 
 ## Where Do I Download The Mod
