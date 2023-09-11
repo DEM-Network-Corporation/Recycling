@@ -1,6 +1,6 @@
 # Page 1
 
-Welcome to the Recycling wiki!
+## Welcome to the Recycling wiki!
 
 ### Description:
 
@@ -17,6 +17,7 @@ A Datapack That Adds Some Recipes To Recycle
 * [2 - Recipes](page-2.md#2-recipes)
 * [3 - Modifying](../in-the-recycling-mod-wave/page-3.md#3-modifying)
 * [3.1 - Editing Recipes](../in-the-recycling-mod-wave/page-3.md#3.1-editing-recipes)
+* [3.2 - Modifying The Metadat](../in-the-recycling-mod-wave/page-4.md#3.2-modifying-the-metadata)[a](../in-the-recycling-mod-wave/page-4.md#3.2-modifying-the-metadata)
 
 </details>
 
