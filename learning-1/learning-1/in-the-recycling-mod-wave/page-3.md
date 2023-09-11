@@ -88,3 +88,5 @@ This Will Result This Is Recipe:
 ![chest\_recipe](https://github.com/DEMnetwork/Recycling/assets/105674889/d0f871dd-79de-4582-a4d3-cdae65fc55f9)
 
 > **Observation: The Ingredient Don't Need to Be Placed Exactly As the Image Above(The Result Will be The Same)**
+
+_Now I Know How To Modify The Recipes_

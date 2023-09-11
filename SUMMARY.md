@@ -14,3 +14,4 @@
     * [Page 2](learning-1/learning-1/introdutcion-to-recycling-mod/page-2.md)
   * [In The Recycling Mod Wave](learning-1/learning-1/in-the-recycling-mod-wave/README.md)
     * [Page 3](learning-1/learning-1/in-the-recycling-mod-wave/page-3.md)
+    * [Page 4](learning-1/learning-1/in-the-recycling-mod-wave/page-4.md)
