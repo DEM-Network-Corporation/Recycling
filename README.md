@@ -8,6 +8,8 @@ A Datapack That Adds Some Recipes To Recycle
 
 [Wiki](https://dem-network-corporation.gitbook.io/recycling-wiki/)(Available At Gitbook)
 
+[Downloads](https://dem-network-corporation.github.io/Recycling/download/)
+
 ## Where Do I Download The Mod
 
 You Can Download The mod At:
