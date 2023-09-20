@@ -1,0 +1,10 @@
+
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'MIT'
+showAsResourcePack = false
+mods = [
+	{ modId = 'recycling', version = '0.0.8-alpha-preview2', displayName = 'Recycling', description = 'A Mod That Adds Some Recipes To Recycle', logoFile = 'recycling_pack.png', updateJSONURL = 'https://github.com/DEMnetwork/Recycling/raw/main/update.json', credits = '  ', authors = 'DEMnetwork', displayURL = 'https://dem-network-corporation.github.io/Recycling' },
+]
+issueTrackerURL = 'https://github.com/DEMnetwork/Recycling/issues'
+
