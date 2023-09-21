@@ -2,6 +2,9 @@
 
 A Datapack That Adds Some Recipes To Recycle
 
+## Supportting:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S2O2QX8)
+
 ## Links
 
 [Interactive-content](https://dem-network-corporation.github.io/Recycling/Interactive-Content/)
