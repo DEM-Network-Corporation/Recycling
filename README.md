@@ -4,6 +4,7 @@ A Datapack That Adds Some Recipes To Recycle
 
 ## Supportting:
 [![opencollective](https://opencollective.com/recycling/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/recycling)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S2O2QX8)
 ## Links
 
 [Interactive-content](https://dem-network-corporation.github.io/Recycling/Interactive-Content/)
