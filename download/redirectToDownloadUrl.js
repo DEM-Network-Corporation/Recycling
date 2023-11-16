@@ -22,6 +22,6 @@
  */
 
 function redirectToDownloadUrl() {
-    location.replace("https://cdn.modrinth.com/data/9L3Js3A8/versions/gSkJcKLV/recycling-v0.0.8-alpha-preview2.jar")
+    location.replace("https://cdn.modrinth.com/data/9L3Js3A8/versions/SeQU0Nw7/recycling-v0.0.8-alpha.jar")
     window.alert("Thank You For Downloading");  
 }
