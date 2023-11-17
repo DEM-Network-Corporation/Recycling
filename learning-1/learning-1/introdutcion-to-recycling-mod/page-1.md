@@ -1,3 +1,7 @@
+---
+description: The Introduction To Recycling Mod
+---
+
 # Page 1
 
 ## Welcome to the Recycling wiki!
