@@ -68,3 +68,60 @@ This File Include The Mod's Metadata Such As: Name,Version,license,authors,sourc
 {% endtab %}
 {% endtabs %}
 
+Our First Conclusion That's Without A Manifest File The Modloader Won't Load The Mod
+
+{% hint style="info" %}
+Before Editing Make Sure Yo uHave An Copy Of The Mod
+{% endhint %}
+
+#### 3.2.1 - How To Edit Metadata
+
+Step 1 - Extract The Mod:\
+To Extract The mod  You Can Use Softwares Like: 7-zip
+
+After You Have Extracted The Files.
+
+You'll View The Following Files:
+
+<figure><picture><source srcset="../../../.gitbook/assets/image (2).png" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (1).png" alt=""></picture><figcaption><p>Files That You'll View</p></figcaption></figure>
+
+Step 2 -  Edit The Metadata Files:
+
+{% hint style="info" %}
+This Step Varies Acording To The Modloader
+{% endhint %}
+
+{% tabs %}
+{% tab title="Forge" %}
+Some Fields Are Critical So Any Change At That Fields May Make The Mod Broken.\
+Fields That Aren't Critical:\
+\- <mark style="color:blue;">`modId`</mark>\
+\- <mark style="color:blue;">`version`</mark>\
+\- <mark style="color:blue;">`description`</mark>\
+\- <mark style="color:blue;">`logoFile`</mark>\
+\- <mark style="color:blue;">`updateJSONURL`</mark>\
+\-  And more
+
+#### How To Modify The File
+
+{% hint style="info" %}
+The FIle Is Located At META-INF/mods.toml
+{% endhint %}
+
+Open A Code Editor(Such As IntelliJ IDEA, VS Code, Eclipse, Or Any other)\
+For An Example I'll Use VS Code\
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Example</p></figcaption></figure>
+
+Then After Editing The Code You Can Make An Zip File
+{% endtab %}
+
+{% tab title="Fabric" %}
+
+{% endtab %}
+
+{% tab title="Quilt" %}
+
+{% endtab %}
+{% endtabs %}
