@@ -1,3 +1,3 @@
 function redirect() {
-  location.replace("all.html")
+  location.replace("https://dem-network-corporation.github.io/Recycling/download/all.html")
 }
