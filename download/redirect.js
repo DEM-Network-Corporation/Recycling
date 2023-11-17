@@ -1,3 +1,3 @@
 function redirect() {
-  location.replace("https://dem-network-corporation.github.io/Recycling/download/all.html")
+  location.href("dem-network-corporation.github.io/Recycling/download/all.html")
 }
