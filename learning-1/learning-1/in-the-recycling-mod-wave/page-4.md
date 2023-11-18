@@ -71,7 +71,7 @@ This File Include The Mod's Metadata Such As: Name,Version,license,authors,sourc
 Our First Conclusion That's Without A Manifest File The Modloader Won't Load The Mod
 
 {% hint style="info" %}
-Before Editing Make Sure Yo uHave An Copy Of The Mod
+Before Editing Make Sure You Have An Copy Of The Mod
 {% endhint %}
 
 #### 3.2.1 - How To Edit Metadata
@@ -108,20 +108,42 @@ Fields That Aren't Critical:\
 The FIle Is Located At META-INF/mods.toml
 {% endhint %}
 
-Open A Code Editor(Such As IntelliJ IDEA, VS Code, Eclipse, Or Any other)\
-For An Example I'll Use VS Code\
-
+Open A Code Editor(Such As IntelliJ IDEA, VS Code, Eclipse, Or Any other).\
+For Example i\`ll Use VS Code
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Example</p></figcaption></figure>
 
-Then After Editing The Code You Can Make An Zip File
+Then After Editing The Code You Can Make An Zip File\
+
+
+<figure><img src="../../../.gitbook/assets/new .zip file.png" alt=""><figcaption><p>Make An Zip File</p></figcaption></figure>
+
+Then Copy The Files
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Copying The Files</p></figcaption></figure>
+
+Then Paste In The Your Zip File
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Pasting The Files</p></figcaption></figure>
+
+Rename Change The File Extension From .zip To .jar
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Renaming The Zip File</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>File After Renamed</p></figcaption></figure>
+
+Now Move To The %appdate%/.minecraft/mods/
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Moving To Mods Folder</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Fabric" %}
-
+Work In Pogress
 {% endtab %}
 
 {% tab title="Quilt" %}
-
+Work In Progress
 {% endtab %}
 {% endtabs %}
+
+Congratulations!!! You've Modified The Mod!!!
