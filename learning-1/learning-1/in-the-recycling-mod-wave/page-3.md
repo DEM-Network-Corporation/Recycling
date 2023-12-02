@@ -65,7 +65,11 @@ _What Is The Recipe Type: `minecraft:crafting_shapeless`?_
 
 _**`minecraft:crafting_shapeless`**** ****Says The The Recipe Doesn't Have A Pattern**_
 
-For An Example I'll Use [chest.json](https://github.com/DEMnetwork/Recycling/blob/main/recycling%20mod/data/crafting/recipes/chest.json)
+For An Example I'll Use [chest.json](https://github.com/DEMnetwork/Recycling/blob/main/recycling%20mod/data/crafting/recipes/chest.json)\
+\
+_But Before We View The Code, How Do I Get Theese Files?_
+
+_**You'll Need To Extract The Files Using For Example: 7-zip**_
 
 ```json
 {
