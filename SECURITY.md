@@ -26,3 +26,9 @@ Only Report A Vulnerability If You Are Using A Original Version In Case Of Modfi
 > **NOTE:** You Must To Send Your Mod FIles In Order To Complete Your Security Vulnerability Report
 
 After Sending Your Report You Should Wait Until Owner and/or Coders Have Diagnosticated Your problem
+
+And Versions With A :x: Are Unsupported
+
+Check The Reason Below Why They Are Unsupported 
+
++ 0.0.8-alpha(preview1) - Because Since That's Only Available In Datapack Version It Won't Cause Security Risks To The User
