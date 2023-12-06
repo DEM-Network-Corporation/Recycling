@@ -1,5 +1,7 @@
 # Security Policy
 
+The Security Policy Provides Information About Security Reports 
+
 ## Supported Versions
 
 
@@ -22,6 +24,8 @@
 ## Reporting a Vulnerability
 
 Only Report A Vulnerability If You Are Using A Original Version In Case Of Modfied Version The Request Will be Denied
+
+Modifyed Versions Vulnerabilyty Reports Must To Be Sent To The Distributor Of The Modifyed Version
 
 > **NOTE:** You Must To Send Your Mod FIles In Order To Complete Your Security Vulnerability Report
 
