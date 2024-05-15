@@ -1,5 +1,16 @@
 ---
 description: Contains 5 of The Recipes Added
+layout:
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Page 2

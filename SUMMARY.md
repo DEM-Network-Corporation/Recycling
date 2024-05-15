@@ -8,10 +8,16 @@
 
 ## Learning 1
 
-* [Learning 1](learning-1/learning-1/README.md)
-  * [Introdutcion To Recycling Mod](learning-1/learning-1/introdutcion-to-recycling-mod/README.md)
-    * [Page 1](learning-1/learning-1/introdutcion-to-recycling-mod/page-1.md)
-    * [Page 2](learning-1/learning-1/introdutcion-to-recycling-mod/page-2.md)
-  * [In The Recycling Mod Wave](learning-1/learning-1/in-the-recycling-mod-wave/README.md)
-    * [Page 3](learning-1/learning-1/in-the-recycling-mod-wave/page-3.md)
-    * [Page 4](learning-1/learning-1/in-the-recycling-mod-wave/page-4.md)
+* [Learning 1](learning-1/home/README.md)
+  * [Introdutcion To Recycling Mod](learning-1/home/introdutcion-to-recycling-mod/README.md)
+    * [Page 1](learning-1/home/introdutcion-to-recycling-mod/page-1.md)
+    * [Page 2](learning-1/home/introdutcion-to-recycling-mod/page-2.md)
+  * [In The Recycling Mod Wave](learning-1/home/in-the-recycling-mod-wave/README.md)
+    * [Page 3](learning-1/home/in-the-recycling-mod-wave/page-3.md)
+    * [Page 4](learning-1/home/in-the-recycling-mod-wave/page-4.md)
+
+## Learning 2
+
+* [Learning 2](learning-2/home/README.md)
+  * [In The Recycling Mod Wave 2](learning-2/home/in-the-recycling-mod-wave-2/README.md)
+    * [Page 5](learning-2/home/in-the-recycling-mod-wave-2/page-5.md)

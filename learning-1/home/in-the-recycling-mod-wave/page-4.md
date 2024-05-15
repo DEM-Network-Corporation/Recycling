@@ -132,7 +132,7 @@ Rename Change The File Extension From .zip To .jar
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>File After Renamed</p></figcaption></figure>
 
-Now Move To The %appdate%/.minecraft/mods/
+Now Move To The `%appdata%/.minecraft/mods/`
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Moving To Mods Folder</p></figcaption></figure>
 {% endtab %}
