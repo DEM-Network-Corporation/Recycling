@@ -138,7 +138,30 @@ Now Move To The `%appdata%/.minecraft/mods/`
 {% endtab %}
 
 {% tab title="Fabric" %}
-Work In Pogress
+* **Edit the metadata**
+
+To edit the metadata you'll need to access the File(<mark style="color:purple;">`<mod location>/fabric.mod.json`</mark>)
+
+{% hint style="info" %}
+Note that the metadata file is a <mark style="color:red;">`.json`</mark> file
+{% endhint %}
+
+The Metadata File **MUST BE** formatted correctly unless the mod will not load!\
+\
+Here is an example:
+
+{% code title="fabric.mod.json" overflow="wrap" fullWidth="true" %}
+```json
+{"schemaVersion":1,"id":"recycling","version":"0.0.9-alpha","name":"Recycling","description":"A Mod That Adds Some Recipes To Recycle","authors":["DEMnetwork"],"contact":{"homepage":"https://dem-network-corporation.github.io/Recycling/","sources":"https://github.com/DEMnetwork/Recycling/tree/main","issues":"https://github.com/DEMnetwork/Recycling/issues"},"license":"MIT","icon":"recycling_pack.png","environment":"*","depends":{"fabric-resource-loader-v0":"*"}}
+```
+{% endcode %}
+
+You can change any field, but you need to make sure the syntax is correct!
+
+* **Package the mod**
+
+Create a Zip File then insert ALL the files(Including the Non-modified ones)\
+After that rename the Extension to <mark style="color:red;">`.jar`</mark> ,then copy it to `%appdata%/.minecraft/mods/`
 {% endtab %}
 
 {% tab title="Quilt" %}
