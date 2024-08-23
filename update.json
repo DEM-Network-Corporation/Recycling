@@ -2,11 +2,15 @@
   "homepage": "https://modrinth.com/mod/recycling_mod",
   "promos": {
     "1.19.4-latest"     : "0.0.7-alpha",
-    "1.19.4-recomended" : "0.0.7-alpha"
+    "1.19.4-recomended" : "0.0.7-alpha",
+    "1.20.0-latest"     : "0.0.9-alpha",
+    "1.20.0-recomended" : "0.0.9-alpha",
+    "1.20.1-latest"     : "0.0.9-alpha",
+    "1.20.1-recomended" : "0.0.9-alpha"
   },
   "1.19.4" : {
     
-    "0.0.7-alpha" : "Changelog seince last build",
-    "0.0.6-alpha" : "Changelog seince last build"
+    "0.0.7-alpha" : "",
+    "0.0.6-alpha" : ""
   }
 }
