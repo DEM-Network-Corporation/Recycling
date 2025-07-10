@@ -2,7 +2,7 @@
 
 A Datapack That Adds Some Recipes To Recycle
 
-For newer versions [CLick Here](https://github.com/DEMnetwork/Recycling-Beta/tree/main)
+For newer versions [Click Here](https://github.com/DEMnetwork/Recycling-Beta/tree/main)
 
 ## Supportting:
 [![opencollective](https://opencollective.com/recycling/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/recycling)
